@@ -1,0 +1,19 @@
+{
+  "name": "new-app",
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^2.4.7",
+    "@chakra-ui/theme-tools": "^2.0.16",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "components": "workspace:*",
+    "framer-motion": "^8.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
